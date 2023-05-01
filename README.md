@@ -6,5 +6,5 @@ JNTUA.
 Tech:
 
 
-- Django & Django REST
+- FastAPI
 - Docker
