@@ -30,7 +30,6 @@ class ResultScraper:
         #To be implemented after implementing redis server
         # self.examcodes=jntuhresultscraper.exam_codes()
 
-
         # GPA conversion table
         self.grades_to_gpa = {'O': 10, 'A+': 9, 'A': 8, 'B+': 7, 'B': 6, 'C': 5, 'F': 0, 'Ab': 0, '-': 0}
         

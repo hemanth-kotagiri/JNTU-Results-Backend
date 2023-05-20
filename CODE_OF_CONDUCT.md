@@ -31,3 +31,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [jnturesultsindia@gmail.com](mailto:jnturesultsindia@gmail.com). The project team will review and investigate all complaints, and will respond in a manner that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident, unless required by law or professional standards.
+
