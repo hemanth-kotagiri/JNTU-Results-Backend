@@ -36,6 +36,7 @@ The API will be accessible at `http://localhost:8000`.
 
 For detailed information about the available endpoints and how to use the API, refer to the [API documentation](http://localhost/docs). The documentation provides examples and explanations of each endpoint and the expected response format.
 
+
 ## Need Help or Found a Bug?
 
 If you need assistance with setup, deployment, or implementing special features, or if you simply want to chat with the developers, feel free to contact us via email at [jnturesultsindia@gmail.com](mailto:jnturesultsindia@gmail.com).

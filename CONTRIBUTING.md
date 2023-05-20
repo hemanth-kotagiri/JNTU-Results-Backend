@@ -39,6 +39,7 @@ You understand and agree that you are under no obligation to provide any Contrib
 You confirm that you have read and understand this Agreement and you agree to the terms and conditions of this Agreement by signing below or by submitting a Contribution to the Project.
 
 ___________________________
+
 [Your Name]
 [Your Email]
 [Date]

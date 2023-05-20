@@ -34,7 +34,6 @@ def academicResult(university: str, htno: str = Query(...)):
 
             # Return the result
             return result
-
         except Exception as e:
             # Catch any exceptions raised during scraping
             raise HTTPException(status_code=500, detail=str(e))
