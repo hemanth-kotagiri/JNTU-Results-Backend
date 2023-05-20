@@ -34,7 +34,7 @@ The API will be accessible at `http://localhost:8000`.
 
 ## Documentation
 
-For detailed information about the available endpoints and how to use the API, refer to the [API documentation](API_DOCUMENTATION.md). The documentation provides examples and explanations of each endpoint and the expected response format.
+For detailed information about the available endpoints and how to use the API, refer to the [API documentation](http://localhost/docs). The documentation provides examples and explanations of each endpoint and the expected response format.
 
 ## Need Help or Found a Bug?
 
