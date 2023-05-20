@@ -1,4 +1,5 @@
-<h1 align="center"><a href="http://results.jntuh.ac.in/" target="_blank">JNTU</a> Results REST-API</h1>
+<h1 align="center"><a href="http://results.jntuh.ac.in/"
+target="_blank">JNTU</a> Results REST-API</h1>
 
 The JNTU Results REST-API is a RESTFul Service that allows you to fetch results
 for all regulations, and of all types (regular and supplementary exams), based
@@ -30,6 +31,7 @@ Q. **What are we currently working on?**
 ## Features
 
 We have a lot of features that we provide, but the below is the most used one.
+
 - Fetch regular and supplementary exam results for a specific roll number.
 - Retrieve detailed information about each result, including subject-wise marks,
   total marks, and grade.
@@ -77,7 +79,7 @@ To run the API locally in development mode, follow these steps:
 
 3. Start the development server:
 
-<pre> uvicorn results.main:app --reload
+<pre> uvicorn app.main:app --reload
 
 </pre>
 
